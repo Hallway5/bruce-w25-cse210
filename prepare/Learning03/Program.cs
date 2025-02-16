@@ -6,8 +6,8 @@ class Program
     {
         Console.WriteLine("Hello Learning03 World!");
 
-        //Fraction fraction1 = new Fraction();
-        //Console.WriteLine(fraction1);
+        Fraction fraction1 = new Fraction();
+        Console.WriteLine(fraction1);
 
         //int wholeNumber = 5;
         //Fraction fraction2 = new Fraction(wholeNumber);
